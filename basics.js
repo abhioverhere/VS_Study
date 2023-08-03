@@ -4,3 +4,5 @@ do{
     console.log(x[i]);
     i++;
 }while (i<x.length);
+
+console.log('This is a test');
